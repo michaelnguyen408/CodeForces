@@ -1,8 +1,10 @@
 #include<iostream>
 #include<stack>
+#include<algorithm>
 
 using namespace std;
 
+// COCI 2011/2012 4th round
 int main()
 {
     int n, k;
